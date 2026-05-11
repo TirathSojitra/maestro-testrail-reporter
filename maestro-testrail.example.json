@@ -1,0 +1,17 @@
+{
+  "testrail": {
+    "host": "https://yourorg.testrail.io",
+    "username": "your@email.com",
+    "apiKey": "your_api_key",
+    "projectId": 1,
+    "suiteId": 2,
+    "runName": "Nightly Maestro Run"
+  },
+  "maestro": {
+    "resultsDir": "./maestro-results",
+    "appId": "com.example.myapp"
+  },
+  "uploadAttachments": true,
+  "createMissingCases": false,
+  "dryRun": false
+}
