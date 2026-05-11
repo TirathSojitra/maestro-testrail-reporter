@@ -35,16 +35,16 @@
     "automation",
     "ci"
   ],
-  "author": "",
+  "author": "Tirath Sojitra",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/maestro-testrail-reporter"
+    "url": "https://github.com/TirathSojitra/maestro-testrail-reporter"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/maestro-testrail-reporter/issues"
+    "url": "https://github.com/TirathSojitra/maestro-testrail-reporter/issues"
   },
-  "homepage": "https://github.com/yourusername/maestro-testrail-reporter#readme",
+  "homepage": "https://github.com/TirathSojitra/maestro-testrail-reporter#readme",
   "dependencies": {
     "axios": "^1.6.7",
     "form-data": "^4.0.0",
