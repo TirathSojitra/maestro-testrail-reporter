@@ -1,6 +1,6 @@
 {
   "name": "maestro-testrail-reporter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sync Maestro mobile test results to TestRail with screenshots, videos and failure reasons",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
